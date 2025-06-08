@@ -3,9 +3,7 @@ A simple and fun Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Playabl
 
 🛠️ Tech Stack
 HTML5
-
 CSS3
-
 JavaScript (Vanilla)
 
 🎮 Features
